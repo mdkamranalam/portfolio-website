@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Simple Note",
+    "imageSrc": "projects/project.png",
+    "description": "Simple note is a simple note-taking app that allows users to create, edit, and delete notes.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "Soon available",
+    "source": "https://github.com/mdkamranalam/simple-note"
+  },
+  {
+    "title": "AI Healthcare Assistant",
+    "imageSrc": "projects/project.png",
+    "description": "AI Healthcare Assistant is a web application that uses AI to provide healthcare information and assistance.",
+    "skills": ["Python", "Streamlit", "Langchain"],
+    "demo": "https://ai-healthcare-assistant-chatbot.streamlit.app/",
+    "source": "https://github.com/mdkamranalam/ai_healthcare_assistant_chatbot"
+  },
+  {
+    "title": "Comming Soon",
+    "imageSrc": "projects/project.png",
+    "description": "This project is under development and will be available soon.",
+    "skills": [],
+    "demo": "Soon available",
+    "source": "https://github.com/mdkamranalam"
+  }
+]
