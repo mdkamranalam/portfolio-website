@@ -16,11 +16,11 @@
     "source": "https://github.com/mdkamranalam/ai_healthcare_assistant_chatbot"
   },
   {
-    "title": "Comming Soon",
-    "imageSrc": "projects/project.png",
-    "description": "This project is under development and will be available soon.",
-    "skills": [],
-    "demo": "Soon available",
-    "source": "https://github.com/mdkamranalam"
+    "title": "EcoAI",
+    "imageSrc": "projects/ecoAI.png",
+    "description": "It empowers users to reduce their carbon footprint through AI-driven insights, personalized sustainability plans, and real-time \"what-if\" simulations.",
+    "skills": ["NextJS", "Express", "Node", "Python"],
+    "demo": "https://youtu.be/E3vcWA7IbXw?si=aJ4P8hNF6R74umi3",
+    "source": "https://github.com/mdkamranalam/EcoAI"
   }
 ]
